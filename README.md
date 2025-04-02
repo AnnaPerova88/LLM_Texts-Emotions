@@ -20,3 +20,4 @@
 
 
 ![Облако слов](Screenshot_1.jpg)
+![Анализ_Тональности](Screenshot_2.jpg)
